@@ -14,7 +14,8 @@ Tenassist is a telemedicine system platform designed to facilitate seamless comm
 To get started with Tenassist, follow these steps:
 
 1. Clone the repository:
-'''git clone'''
+'''javascript
+git clone
 https://github.com/Atesfahun/Tenassist.git.
 3. Navigate to the project directory
 :cd Tenassist.
