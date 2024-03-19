@@ -14,17 +14,19 @@ Tenassist is a telemedicine system platform designed to facilitate seamless comm
 To get started with Tenassist, follow these steps:
 
 1. Clone the repository:
-'''javascript
-git clone
-https://github.com/Atesfahun/Tenassist.git.
-3. Navigate to the project directory
-:cd Tenassist.
+```
+git clone https://github.com/Atesfahun/Tenassist.git.
+```
+2. Navigate to the project directory:
+ ``` cd Tenassist.```
 3 Install dependencies
-:npm install
-5. Configure the environment variables as per the provided `.env.example` file.
-
+:
+```npm install```
+4. Configure the environment variables as per the provided `.env.example` file.
 6. Run the application
-:npm start## Technologies Used
+:
+```npm start```
+## Technologies Used
 - **Node.js**: Backend server environment for handling requests and managing data.
 - **Express.js**: Web application framework for building the RESTful API.
 - **React**: Frontend library for creating interactive user interfaces.
