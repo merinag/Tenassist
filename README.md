@@ -24,14 +24,14 @@ git clone https://github.com/Atesfahun/Tenassist.git.
 ```npm install```
 4. Configure the environment variables as per the provided `.env.example` file.
 6. Run the application
-:
-```npm start```
+
 ## Technologies Used
-- **Node.js**: Backend server environment for handling requests and managing data.
-- **Express.js**: Web application framework for building the RESTful API.
+
+- **Django**: Backend server environment for handling requests and managing data.
 - **React**: Frontend library for creating interactive user interfaces.
-- **MongoDB**: NoSQL database for storing user information and medical records.
+- **SQLite**: Relational database for storing user information and medical records.
 - **WebRTC**: Technology for enabling real-time communication between doctors and patients.
+
 
 ## Contributing
 Contributions to Tenassist are welcome! If you have any ideas for new features, bug fixes, or improvements, feel free to open an issue or submit a pull request.
