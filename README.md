@@ -20,8 +20,7 @@ git clone https://github.com/Atesfahun/Tenassist.git.
 2. Navigate to the project directory:
  ``` cd Tenassist.```
 3 Install dependencies
-:
-```npm install```
+
 4. Configure the environment variables as per the provided `.env.example` file.
 6. Run the application
 
