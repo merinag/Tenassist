@@ -2,8 +2,9 @@
 function App() {
 
   return (
-    <div className="w-5 text-green-600">
-      Hi
+    <div className="flex text-green-600">
+      <div>HI</div>
+      <div>HI</div>
     </div>
   )
 }
