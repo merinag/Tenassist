@@ -1,4 +1,4 @@
-# Tenassist Django Project
+# Tenassist
 
 This is a Django project for Tenassist,  The project uses Bootstrap for styling and SQLite as the database.
 
