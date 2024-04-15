@@ -9,9 +9,11 @@ To get started with the project, follow these steps:
 1. Clone the repository:
 
 git clone https://github.com/Atesfahun/Tenassist.git
+
 2. Navigate to the project directory:
 
 cd Tenassist
+
 3. Create a virtual environment and activate it:
 
 python -m venv venv
